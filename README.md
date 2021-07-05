@@ -17,7 +17,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-![](bttf-car.gif)
+<div align="center">
+<img height="150" src="https://github.com/hotai1806/hotai1806/blob/main/bttf-car.gif" alt="delorean back to the future gif" />
+</div>
 
 <div align='center'>
 <b>Where we're going. we don't need roads.</b><br>
