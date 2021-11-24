@@ -13,8 +13,6 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=NestJS&logoColor=E0234E)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=Next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-306141?style=flat-square&logo=django)
-<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql) -->
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Socket](https://img.shields.io/badge/-socket.io-black?style=flat-square&logo=socket.io&logoColor=white)
 
@@ -40,3 +38,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
+  
+  <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql) -->
