@@ -1,19 +1,23 @@
 ### Hi there 👋
 
 ### I am Tai, currently pursuing my bachelor's degree majoring in computer science from [Ho Chi Minh City Open University](http://en.ou.edu.vn/)
-
-## ⚡ Technologies
-
+##  Language
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+##  Technologies
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=NestJS&logoColor=E0234E)
+![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=Next.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-306141?style=flat-square&logo=django)
+<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql) -->
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Socket](https://img.shields.io/badge/-socket.io-black?style=flat-square&logo=socket.io&logoColor=white)
+
 
 <div align="center">
 <img height="150" src="https://github.com/hotai1806/hotai1806/blob/main/bttf-car.gif" alt="delorean back to the future gif" />
