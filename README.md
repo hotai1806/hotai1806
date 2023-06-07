@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hello there 👋
 
-### I am Tai, currently pursuing my bachelor's degree majoring in computer science from [Ho Chi Minh City Open University](http://en.ou.edu.vn/)
+### I'm currently work as software engineer at HCM city. I love to work both side backend and frontend, that make me see full circle of software devlopment. 
+
 ##  Language
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -24,6 +25,9 @@
 <div align='center'>
 <b>Where we're going. we don't need roads.</b><br>
 </div>
+
+## Education
+[Ho Chi Minh City Open University](http://en.ou.edu.vn/)
 <!--
 **hotai1806/hotai1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
