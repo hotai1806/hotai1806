@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-### I'm currently work as software engineer at HCM city with +1 year of experience in the software industry. I love to work both side backend and frontend, that make me see full circle of software devlopment. 
+### I'm currently working as a software engineer at HCM City with +3 years of experience in the software industry. I love to work on both sides, backend and frontend, which makes me see the full circle of software development. I love talking about movies, 80% of my body is made up of cartoons and movies.
+- 🌱 I’m currently learning Generative AI.
+- How to reach me: hotai1806@gmail.com
 
 ##  Language
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
